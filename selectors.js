@@ -1,7 +1,7 @@
 var SELECTORS = {
     "content": {
         "APP_ROOT_ELEMENT": "#app",
-        "MESSAGES_LIST_IN_OUT_OBSERVED": ".tSmQ1_",
+        "MESSAGES_LIST_IN_OUT_OBSERVED": ".tSmQ1",
         "CONTAINER_INPUT_MESSAGE_SEND": ".DuUXI",
         "INPUT_TYPE_MESSAGE_SEND": ".copyable-text.selectable-text",
         "SCROLLABLE_LIST_MESSAGES": "._26MUt",
