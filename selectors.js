@@ -10,7 +10,7 @@ var SELECTORS = {
     },
     "translator": {
         "INPUT_SOURCE": ".QFw9Te textarea",
-        "OUTPUT_RESULT_TRANSLATION_CONTAINER": ".dePhmb_",
+        "OUTPUT_RESULT_TRANSLATION_CONTAINER": ".dePhmb",
         "SPAN_TRALSATION_RESULTS": "span.VIiyi",
         "CONTAINER_LIST_SOURCE_LANGUAGES": ".hRFt4b",
         "CONTAINER_LIST_TARGET_LANGUAGES": ".ykTHSe",
