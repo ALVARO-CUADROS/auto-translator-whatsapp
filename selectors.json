@@ -12,7 +12,7 @@
         "INPUT_SOURCE": ".QFw9Te textarea",
         "OUTPUT_RESULT_TRANSLATION_CONTAINER": ".dePhmb",
         "SPAN_TRALSATION_RESULTS": "span.VIiyi",
-        "CONTAINER_LIST_SOURCE_LANGUAGES": ".hRFt4b",
+        "CONTAINER_LIST_SOURCE_LANGUAGES": ".OoYv6d",
         "CONTAINER_LIST_TARGET_LANGUAGES": ".ykTHSe",
         "ITEM_LANGUAGE_IN_CONTAINER_LIST_BY_LANGUAGE": "div.ordo2[data-language-code=\"${lang}\"]"
     }
