@@ -1,12 +1,12 @@
 {
     "content": {
         "APP_ROOT_ELEMENT": "#app",
-        "MESSAGES_LIST_IN_OUT_OBSERVED": ".tSmQ1",
-        "CONTAINER_INPUT_MESSAGE_SEND": ".DuUXI",
+        "MESSAGES_LIST_IN_OUT_OBSERVED": "._11liR",
+        "CONTAINER_INPUT_MESSAGE_SEND": "._2A8P4",
         "INPUT_TYPE_MESSAGE_SEND": ".copyable-text.selectable-text",
-        "SCROLLABLE_LIST_MESSAGES": "._26MUt",
-        "LEFT_CLICKABLE_USERS_PANEL": "._3Xjbn._3jNGW",
-        "HEADER_USER_TITLE": "header._1UuMR"
+        "SCROLLABLE_LIST_MESSAGES": "._1gL0z",
+        "LEFT_CLICKABLE_USERS_PANEL": "._1C2Q3.F-0gY",
+        "HEADER_USER_TITLE": "header._1-qgF"
     },
     "translator": {
         "INPUT_SOURCE": ".QFw9Te textarea",
